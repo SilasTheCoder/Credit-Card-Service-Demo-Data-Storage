@@ -64,6 +64,4 @@ if inputuser == 20:
 if inputuser == 21:
   money = ("0 dollars")
   print ("Eva has", money)
-else:
-  print (inputuser, "does not exist")
-  print ("Re-run the program...")
+print ("Finished! Re-run the program to try again!")
