@@ -4,3 +4,66 @@ inputuser = int(input(" "))
 if inputuser == 1:
   money = ("0 dollars")
   print ("Avie has", money)
+ if inputuser == 2:
+  money = ("0 dollars")
+  print ("Maddie has", money)
+if inputuser == 3:
+  money = ("0 dollars")
+  print ("Silas has", money)
+if inputuser == 4:
+  money = ("0 dollars")
+  print ("Tatianna has", money)
+if inputuser == 5:
+  money = ("0 dollars")
+  print ("Frank has", money)
+if inputuser == 6:
+  money = ("0 dollars")
+  print ("Max G. has", money)
+if inputuser == 7:
+  money = ("0 dollars")
+  print ("Isabel has", money)
+if inputuser == 8:
+  money = ("0 dollars")
+  print ("Kenan has", money)
+if inputuser == 9:
+  money = ("0 dollars")
+  print ("Noah has", money)
+if inputuser == 10:
+  money = ("0 dollars")
+  print ("Maddie has", money)
+if inputuser == 11:
+  money = ("0 dollars")
+  print ("Seth has", money)
+if inputuser == 12:
+  money = ("0 dollars")
+  print ("Angelina has", money)
+if inputuser == 13:
+  money = ("0 dollars")
+  print ("Landon has", money)
+if inputuser == 14:
+  money = ("0 dollars")
+  print ("Monique has", money)
+if inputuser == 15:
+  money = ("0 dollars")
+  print ("Ali has", money)
+if inputuser == 16:
+  money = ("0 dollars")
+  print ("Ella has", money)
+if inputuser == 17:
+  money = ("0 dollars")
+  print ("Abe has", money)
+if inputuser == 18:
+  money = ("0 dollars")
+  print ("Kayden has", money)
+if inputuser == 19:
+  money = ("0 dollars")
+  print ("Chloe has", money)
+if inputuser == 20:
+  money = ("0 dollars")
+  print ("Emma has", money)
+if inputuser == 21:
+  money = ("0 dollars")
+  print ("Eva has", money)
+else:
+  print (inputuser, "does not exist")
+  print ("Re-run the program...")
