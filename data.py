@@ -4,7 +4,7 @@ inputuser = int(input(" "))
 if inputuser == 1:
   money = ("0 dollars")
   print ("Avie has", money)
- if inputuser == 2:
+if inputuser == 2:
   money = ("0 dollars")
   print ("Maddie has", money)
 if inputuser == 3:
