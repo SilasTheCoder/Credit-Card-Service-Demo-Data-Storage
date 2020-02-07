@@ -9,7 +9,7 @@ if inputuser == 2:
   money = ("0 dollars")
   print ("Maddie has", money)
 if inputuser == 3:
-  money = ("10 dollars")
+  money = ("100 dollars")
   print ("Silas has", money)
 if inputuser == 4:
   money = ("0 dollars")
