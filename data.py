@@ -1,4 +1,4 @@
-print ("Credit Card Data Downloaded")
+print ("Data")
 print ("CheckCredit V1.0")
 print ("Who's class number do you want to check the balance of?")
 inputuser = int(input(" "))
