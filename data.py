@@ -1,5 +1,5 @@
 print ("Data")
-print ("CheckCredit V1.0")
+print ("Credit Card Service Demo V1.0")
 print ("Who's class number do you want to check the balance of?")
 inputuser = int(input(" "))
 if inputuser == 1:
@@ -9,7 +9,7 @@ if inputuser == 2:
   money = ("0 dollars")
   print ("Maddie has", money)
 if inputuser == 3:
-  money = ("1000000 dollars")
+  money = ("5 dollars")
   print ("Silas has", money)
 if inputuser == 4:
   money = ("0 dollars")
@@ -65,4 +65,4 @@ if inputuser == 20:
 if inputuser == 21:
   money = ("0 dollars")
   print ("Eva has", money)
-print ("Finished! Re-run the program to try again!")
+print ("Finished! Refresh to try again!")
