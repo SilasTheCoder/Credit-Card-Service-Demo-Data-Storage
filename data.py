@@ -3,13 +3,13 @@ print ("Credit Card Service Demo V1.0")
 print ("Who's class number do you want to check the balance of?")
 inputuser = int(input(" "))
 if inputuser == 1:
-  money = ("0 dollars")
+  money = ("10 dollars")
   print ("Avie has", money)
 if inputuser == 2:
   money = ("0 dollars")
   print ("Maddie has", money)
 if inputuser == 3:
-  money = ("5 dollars")
+  money = ("50 dollars")
   print ("Silas has", money)
 if inputuser == 4:
   money = ("0 dollars")
